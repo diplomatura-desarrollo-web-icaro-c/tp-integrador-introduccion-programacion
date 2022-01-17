@@ -29,7 +29,7 @@ Todo el código deberá escribirse con la sintaxis moderna que se ha visto en cl
 
 -------
 
-## Entrega
+## Entrega 📬
 
 El formato de entrega será en este mismo repositorio, a través de una rama personalizada que se deberá llamar con el apellido del o los integrantes del grupo. Ej: _aguirre-rausch-reibel_.
 
