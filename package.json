@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/diplomatura-desarrollo-web-icaro-c/tp-integrador-introduccion-programacion/issues"
   },
-  "homepage": "https://github.com/diplomatura-desarrollo-web-icaro-c/tp-integrador-introduccion-programacion#readme"
+  "homepage": "https://github.com/diplomatura-desarrollo-web-icaro-c/tp-integrador-introduccion-programacion#readme",
+  "dependencies": {
+  }
 }

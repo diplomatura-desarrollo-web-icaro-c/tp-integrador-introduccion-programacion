@@ -1,27 +1,27 @@
 [
     {
-        "id": "6d97dd74-735d-4c73-9c7f-a20a8b8784f9",
+        "id": 1,
         "brand": "Chevrolet",
         "model": "Onix",
         "year": "2020",
         "price": "1689000.00"
     },
     {
-        "id": "766af631-8cc0-419e-b377-af591224c7d2",
+        "id": 2,
         "brand": "Ford",
         "model": "Fiesta",
         "year": "2019",
         "price": "1389400.00"
     },
     {
-        "id": "825a5bdc-60ea-4c94-8419-6725594cd159",
+        "id": 3,
         "brand": "Fiat",
         "model": "Argo",
         "year": "2021",
         "price": "2349000.00"
     },
     {
-        "id": "77508e65-50d8-44fe-ba12-8915e497b442",
+        "id": 4,
         "brand": "Audi",
         "model": "A3",
         "year": "2015",
