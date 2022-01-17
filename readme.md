@@ -26,3 +26,14 @@ Todo el código deberá escribirse con la sintaxis moderna que se ha visto en cl
 - **Edición 📝** 👉 Deberá tomar por consola el comando _editar_ seguido del _id_ del auto a modificar y de los mismos campos que en la carga (con los datos finales del auto).
 
 - **Borrado 🗑** 👉 Deberá tomar por consola el comando _borrar_ seguido del _id_ del auto a borrar.
+
+-------
+
+## Entrega
+
+El formato de entrega será en este mismo repositorio, a través de una rama personalizada que se deberá llamar con el apellido del o los integrantes del grupo. Ej: _aguirre-rausch-reibel_.
+
+Deberán clonar este repositorio en su entorno local así tienen la consigna disponible y ya queda seteado el remoto para empujar los cambios a medida que vayan trabajando.
+Luego de clonarlo, deberán inmediatamente crear su propia rama y desde allí comenzar a trabajar.
+
+**IMPORTANTE** Tener cuidado de no modificar o editar la rama _master_, y de hacerlo, descartar los cambios en la misma para que a la hora de empujar los cambios no se envíen hacia aquí, para que la rama _master_ quede limpia y solamente contenga el _readme.md_.
