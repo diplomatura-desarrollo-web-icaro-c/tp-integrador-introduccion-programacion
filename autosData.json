@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a37c2fe9-c8b4-47c7-ab3e-ccf8b6fb8450",
+    "brand": "Renault",
+    "model": "Renault12",
+    "year": "1978",
+    "price": "300000"
+  },
+  {
+    "id": "5acf52d7-724f-4dc7-80f0-a7e10ddab842",
+    "brand": "Corsa",
+    "model": "Corsa",
+    "year": "2002",
+    "price": "20000"
+  },
+  {
+    "id": "7dac60e7-98bf-4828-a11d-a0a1e0a1ca26",
+    "brand": "Porche",
+    "model": "Carrera",
+    "year": "1980",
+    "price": "10000000"
+  },
+  {
+    "id": "073a1be1-0c68-490a-989f-171571e57299",
+    "brand": "Fiat",
+    "model": "Fitito",
+    "year": "1998",
+    "price": "1000"
+  }
+]
