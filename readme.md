@@ -21,7 +21,7 @@ Todo el código deberá escribirse con la sintaxis moderna que se ha visto en cl
 
   Luego deberá tomar esos datos y agregar un nuevo Objeto Literal con los mismos a la base de datos, tener en cuenta que se deberá agregar un campo _id_ (con los cálculos correspondientes para que siempre se le agregue un _id_ no existente) como identificador.
 
-- **Lectura 🤓** 👉 Deberá tomar por consola el comando _leer_ y se deberá visualizar por consola el array completo de los autos presentes en la concesionaria.
+- **Lectura 👓** 👉 Deberá tomar por consola el comando _leer_ y se deberá visualizar por consola el array completo de los autos presentes en la concesionaria.
 
 - **Edición 📝** 👉 Deberá tomar por consola el comando _editar_ seguido del _id_ del auto a modificar y de los mismos campos que en la carga (con los datos finales del auto).
 
