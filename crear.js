@@ -1,16 +1,29 @@
-const array = require('./read.js')
+const { write } = require('fs');
+var array = require('./read.js')
 const escribir= require('./writeJSON')
 
 
 
-const crear =(idn,brand,model,year,price)=>{
+const crear =(brand,model,year,price)=>{
 
-        array.forEach(element => { 
-            if(element.id==idn) {
-                return "el id ya se encuentra en la lista";
-            }else {array.push({id:"idn",})}
-            agregando algo
-            
-        });
+  
+        var arrayOrdenado = array.sort(function(a,b){ return a.id - b.id});
+                                
+
+        var idn= arrayOrdenado[arrayOrdenado.length -1].id;
+        idn++;
+        arrayOrdenado.push({'id':idn,'brand':brand,'model':model,'year':year,'price':price}) ;
+
+        escribir(arrayOrdenado);
+
+
+
+
+        
+  
+  
+    
 
 }
+
+crear('kia','mustang','1998','1254');
