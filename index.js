@@ -5,19 +5,19 @@ const editCar = require('./actions/edit');
 const getCarById = require('./actions/getById');
 
 switch (process.argv[2]) {
-    case 'listCars':
+    case 'leer':
       console.log(listCars())
       break
-    case 'addCar':
+    case 'cargar':
       console.log(addCar(process.argv[3], process.argv[4], process.argv[5], process.argv[6]))
       break
-    case 'deleteCar':
+    case 'borrar':
       console.log(deleteCar(process.argv[3]))
       break
-    case 'editCar':
+    case 'editar':
       console.log(editCar(process.argv[3], process.argv[4], process.argv[5], process.argv[6], process.argv[7]))
       break
-    case 'getCarById':
+    case 'obtenerAuto':
       console.log(getCarById(process.argv[3]))
       break
     default:
