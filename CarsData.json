@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "brand": "toyota",
+    "model": "supra",
+    "year": "2006",
+    "price": "500000"
+  },
+  {
+    "id": "2",
+    "brand": "honda",
+    "model": "civic ",
+    "year": "2010",
+    "price": "200000"
+  },
+  {
+    "id": "3",
+    "brand": "nissan",
+    "model": "370z",
+    "year": "2009",
+    "price": "300000"
+  },
+  {
+    "id": "4",
+    "brand": "ford",
+    "model": "gt",
+    "year": "2004",
+    "price": "400000"
+  },
+  {
+    "id": "5",
+    "brand": "mercedes benz",
+    "model": "m320",
+    "year": "2015",
+    "price": "500000"
+  },
+  {
+    "id": "6",
+    "brand": "Dodge",
+    "model": "Ram",
+    "year": "2010",
+    "price": "5000000"
+  }
+]
