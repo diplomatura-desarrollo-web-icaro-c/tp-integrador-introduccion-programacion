@@ -2,16 +2,8 @@ const carsFile = require('../carList.json');
 
 
 module.exports = addCar = (brand, model, year, price) => {
-    let carsArray = [];
-    for (var i = 0; i < carsFile.length; i ++) {
-        carsArray.push(carsFile[i]);
-    }
+    let newCar = JSON.stringify({ id: carsFile.length + 1, brand: brand, model: model, year: year, price: price });
+    carsFile.push(JSON.parse(newCar));
 
-    carsArray[carsFile.length].id = carsFile.length + 1;
-    carsArray[carsFile.length].brand = brand;
-    carsArray[carsFile.length].model = model;
-    carsArray[carsFile.length].year = year;
-    carsArray[carsFile.length].price = price;
-
-    return carsArray;
+    return carsFile;
 }
