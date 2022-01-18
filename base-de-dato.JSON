@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "brand": "ford",
+    "model": "focus",
+    "year": "2015",
+    "price": "3000000"
+  },
+  {
+    "id": "2",
+    "brand": "fiat",
+    "model": "palio",
+    "year": "2012",
+    "price": "500000"
+  },
+  {
+    "id": "3",
+    "brand": "renault",
+    "model": "clio",
+    "year": "2011",
+    "price": "1200000"
+  }
+]
