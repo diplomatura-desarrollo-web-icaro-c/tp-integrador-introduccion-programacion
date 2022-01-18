@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "hilux",
+    "year": 2010,
+    "price": 20000
+  },
+  {
+    "id": 2,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 1990,
+    "price": 3500
+  },
+  {
+    "id": 4,
+    "brand": "Fiat",
+    "model": "Palio",
+    "year": 1999,
+    "price": 2501
+  },
+  {
+    "id": 5,
+    "brand": "Tesla",
+    "model": "ModelS",
+    "year": 2021,
+    "price": 3000
+  },
+  {
+    "id": 6,
+    "brand": "Fiat",
+    "model": "Toro Ranch",
+    "year": 2022,
+    "price": 30000
+  }
+]
