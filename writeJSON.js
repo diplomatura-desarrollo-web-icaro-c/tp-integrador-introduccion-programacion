@@ -7,5 +7,5 @@ const write =(array)=>{
 
 }
 
-//write([{'id': '4' , 'brand': 'renault' }]);
+//write([{'id': '4' , 'brand': 'renault','model':'logan', 'year':'2000','price':'855' }]);
 module.exports=write;

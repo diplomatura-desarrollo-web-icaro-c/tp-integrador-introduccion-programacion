@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "brand": "renault",
+    "model": "logan",
+    "year": "2000",
+    "price": "855"
+  },
+  {
+    "id": "2",
+    "brand": "renault",
+    "model": "logan",
+    "year": "2000",
+    "price": "855"
+  },
+  {
+    "id": "45",
+    "brand": "renault",
+    "model": "logan",
+    "year": "2000",
+    "price": "855"
+  },
+  {
+    "id": 46,
+    "brand": "ford",
+    "model": "ranger",
+    "year": "1998",
+    "price": "1254"
+  },
+  {
+    "id": 47,
+    "brand": "kia",
+    "model": "mustang",
+    "year": "1998",
+    "price": "1254"
+  }
+]
