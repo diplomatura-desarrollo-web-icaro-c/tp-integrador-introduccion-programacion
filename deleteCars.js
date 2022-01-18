@@ -15,6 +15,6 @@ const deleteCarsList = (id_delete)  => {
 write(carsList);
 }
 
-deleteCarsList(45);
+//deleteCarsList(45);
 
 module.exports = deleteCarsList;

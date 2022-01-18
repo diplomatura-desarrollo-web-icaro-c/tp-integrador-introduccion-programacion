@@ -1,4 +1,4 @@
-const { write } = require('fs');
+
 var array = require('./read.js')
 const escribir= require('./writeJSON')
 
@@ -17,13 +17,7 @@ const crear =(brand,model,year,price)=>{
         escribir(arrayOrdenado);
 
 
-
-
-        
-  
-  
-    
-
 }
 
-crear('kia','mustang','1998','1254');
+//crear('kia','mustang','1998','1254');
+module.exports = crear;
