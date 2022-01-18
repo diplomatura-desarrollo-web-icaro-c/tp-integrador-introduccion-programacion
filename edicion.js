@@ -22,7 +22,7 @@ console.log ('No se encontró el ID')
 
 module.exports = editar;
 
-editar('2', 'fiat', 'palio', '2012', '500000')
+//editar('2', 'fiat', 'palio', '2012', '500000')
 
 
 
