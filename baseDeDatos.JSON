@@ -7,25 +7,11 @@
     "price": "855"
   },
   {
-    "id": "2",
-    "brand": "renault",
-    "model": "logan",
-    "year": "2000",
-    "price": "855"
-  },
-  {
-    "id": "45",
-    "brand": "renault",
-    "model": "logan",
-    "year": "2000",
-    "price": "855"
-  },
-  {
     "id": 46,
-    "brand": "ford",
-    "model": "ranger",
+    "brand": "mercedez",
+    "model": "compresor",
     "year": "1998",
-    "price": "1254"
+    "price": "2000"
   },
   {
     "id": 47,
