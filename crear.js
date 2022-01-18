@@ -9,7 +9,7 @@ const crear =(idn,brand,model,year,price)=>{
             if(element.id==idn) {
                 return "el id ya se encuentra en la lista";
             }else {array.push({id:"idn",})}
-            
+            agregando algo
             
         });
 
