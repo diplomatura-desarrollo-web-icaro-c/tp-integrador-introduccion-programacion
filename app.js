@@ -21,7 +21,7 @@ switch (process.argv[2]) {
     console.log(create(p1, p2, p3, +p4, +p5, +p6));
     break;
 
-  //al ejecutar 'edit' colocar comillas ("") cuando no se quiera modificar el campo en cuestion
+  //al ejecutar 'edit' colocar comillas ("") para todo parametro p anterior al que si se quiere modificar 
   case "edit":
     console.log(updata(+p1, p2, p3, p4, +p5, +p6, +p7));
     break;
