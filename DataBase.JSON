@@ -1,0 +1,47 @@
+[
+    {
+      "title": "Rayuela",
+      "author": "Julio Córtazar",
+      "genre": "Novela",
+      "year": 1963,
+      "cost": 700,
+      "price": 1200,
+      "id" : 101
+    },
+    {
+        "title": "La ciudad y los perros",
+        "author": " Mario Vargas Llosa",
+        "genre": "Ficcion",
+        "year": 1963,
+        "cost": 900,
+        "price": 1600,
+        "id": 102
+    },
+    {
+        "title": "Cien años de soledad",
+        "author": "Gabriel García Márquez",
+        "genre": "Realismo mágico",
+        "year": 1967,
+        "cost": 750,
+        "price": 1900,
+        "id": 103
+    },
+    {
+        "title": "El amor en los tiempos del cólera",
+        "author": "Gabriel García Márquez",
+        "genre": "Novela",
+        "year": 1985,
+        "cost": 1100,
+        "price": 2200,
+        "id": 104
+    },
+    {
+        "title":"Veinte poemas de amor y una canción desesperada",
+        "author": "Pablo Neruda",
+        "genre": "Poesía",
+        "year": 1924,
+        "cost": 900,
+        "price": 1500,
+        "id": 105
+    }
+  ]
