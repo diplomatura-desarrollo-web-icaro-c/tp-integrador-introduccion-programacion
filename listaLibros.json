@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "el hombre invisible",
+    "author": "Ralph Ellison",
+    "genre": "ciencia ficcion",
+    "year": 1952,
+    "cost": 3000,
+    "price": 4500
+  },
+  {
+    "id": 2,
+    "title": "La odisea",
+    "author": "Homero",
+    "genre": "Belico",
+    "year": 1999,
+    "cost": 1000,
+    "price": 1700
+  },
+  {
+    "id": 3,
+    "title": "Memorias de Adriano",
+    "author": "Marguerite Yourcenar",
+    "genre": "filosofica",
+    "year": 1949,
+    "cost": 5000,
+    "price": 8000
+  },
+  {
+    "id": 4,
+    "title": "Asi hablo Zaratustra",
+    "author": "Friedrich Nietzsche",
+    "genre": "filosofia",
+    "year": 1900,
+    "cost": 2500,
+    "price": 3000
+  }
+]
