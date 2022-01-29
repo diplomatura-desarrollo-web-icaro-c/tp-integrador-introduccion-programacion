@@ -1,0 +1,29 @@
+[
+    {
+      "id": "1",
+      "title": "el principito",
+      "author": "antoine de saint-exupéry",
+      "genre": "ficcion filosofica",
+      "year": "1943",
+      "cost": "600",
+      "price": "890"
+    },
+    {
+        "id": "2",
+        "title": "el alquimista",
+        "author": "paulo coelho",
+        "genre": "novela",
+        "year": "1988",
+        "cost": "2000",
+        "price": "2480"
+    },
+    {
+      "id": "3",
+      "title": "el codigo da vinci",
+      "author": "Dan Brown",
+      "genre": "misterio",
+      "year": "2002",
+      "cost": "1800",
+      "price": "2040"
+    }
+  ]
